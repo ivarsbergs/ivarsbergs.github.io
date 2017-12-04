@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "DoomsdayLoversV2.data.unityweb",
+"asmCodeUrl": "DoomsdayLoversV2.asm.code.unityweb",
+"asmMemoryUrl": "DoomsdayLoversV2.asm.memory.unityweb",
+"asmFrameworkUrl": "DoomsdayLoversV2.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
